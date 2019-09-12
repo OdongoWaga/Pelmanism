@@ -1,5 +1,5 @@
 # Pelmanism
-A simple Swift Pelmanism App
+An iOS Pelmanism App
 
 User has 30 seconds to match randomised deck of 16 cards (8 pairs). After which the game ends. 
 
